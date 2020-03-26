@@ -11,6 +11,7 @@ int main(int argc, char * argv[]) {
     
     string msg  = "Hello World";
 
+    cout << msg << endl;
     
     return 0;
 }
